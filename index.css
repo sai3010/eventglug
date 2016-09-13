@@ -1,8 +1,30 @@
-#past{
-	visibility:hidden;	
-	position:absolute;
-	width:1080px;
-	top:64px;
-	margin:auto;
+body{
 	
 }
+#nav{
+	
+}
+#img1{
+	max-height:75px;
+	max-width:75px;
+}
+#text{
+	font-size:40px;
+}
+#past{
+	text-align:center;
+	margin-top:100px;
+	
+}
+#cur{
+	text-align:center;
+	margin-top:50px;
+}
+
+//upcoming events page
+#card{
+	background:#6fc98a;
+}
+//past events page
+
+
