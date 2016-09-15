@@ -7,5 +7,6 @@ function newwindow(){
 	$("#past").addClass("animated slideInleft");
 	$("#navpast").addClass("active");
 	$("#navup").removeClass("active");
+	$('.button-collapse').sideNav('hide');
 	}
 	

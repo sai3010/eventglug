@@ -1,14 +1,7 @@
 #past{
 	visibility:hidden;	
-	position:absolute;
-	//width:1080px;
 	top:64px;
-	margin-right:200px;
+	
 }
-@media screen and (max-width: 480px) {
-    #past {
-		margin-right:none;
-        
-    }
-}
+
 
