@@ -10,6 +10,8 @@ body{
 }
 #text{
 	font-size:40px;
+	animation-duration:2.5s;
+
 }
 #past{
 	text-align:center;
@@ -25,6 +27,8 @@ body{
 #card{
 	background:#6fc98a;
 }
-//past events page
+#control{
+	animation-duration:3.5s;
+}
 
 
